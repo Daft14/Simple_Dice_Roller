@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Кинуть кости</string>
+    <string name="one_dice">1</string>
+    <string name="two_dice">2</string>
+    <string name="three_dice">3</string>
+    <string name="four_dice">4</string>
+</resources>
